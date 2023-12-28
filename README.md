@@ -9,13 +9,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on [Cold Storage Management System](https://github.com/abdulhakeembsk4k59/csms)
-
-- 🤝 I’m looking for help with [Cold Storage Management System](https://github.com/abdulhakeembsk4k59/csms)
-
 - 👨‍💻 All of my projects are available at [https://github.com/abdulhakeembsk4k59?tab=repositories](https://github.com/abdulhakeembsk4k59?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.youtube.com/channel/UCav2OjhAKzTMZXiOgSm6bAg](https://www.youtube.com/channel/UCav2OjhAKzTMZXiOgSm6bAg)
+- 📝 I regularly create videos on [https://www.youtube.com/channel/UCav2OjhAKzTMZXiOgSm6bAg](https://www.youtube.com/channel/UCav2OjhAKzTMZXiOgSm6bAg)
 
 - 💬 Ask me about **react, angular, JavaScript and Java**
 
